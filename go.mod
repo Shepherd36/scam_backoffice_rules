@@ -8,8 +8,8 @@ require (
 	github.com/mozillazg/go-unidecode v0.2.0
 	github.com/stretchr/testify v1.7.0
 	github.com/tonkeeper/tongo v1.2.2
-	golang.org/x/text v0.7.0
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
+	golang.org/x/text v0.14.0
+	gopkg.in/yaml.v3 v3.0.0
 )
 
 require (
@@ -21,7 +21,7 @@ require (
 	github.com/snksoft/crc v1.1.0 // indirect
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
 	github.com/valyala/fasttemplate v1.2.1 // indirect
-	golang.org/x/crypto v0.0.0-20220321153916-2c7772ba3064 // indirect
+	golang.org/x/crypto v0.17.0 // indirect
 	golang.org/x/exp v0.0.0-20230116083435-1de6713980de // indirect
-	golang.org/x/sys v0.1.0 // indirect
+	golang.org/x/sys v0.15.0 // indirect
 )
